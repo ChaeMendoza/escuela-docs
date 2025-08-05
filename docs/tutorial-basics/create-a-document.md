@@ -2,56 +2,29 @@
 sidebar_position: 2
 ---
 
-# Create a Document
+# ¿Cómo acceder a un curso matriculado?
 
-Documents are **groups of pages** connected through:
+Una vez que te has inscrito en un curso, puedes acceder a él de dos formas:
 
-- a **sidebar**
-- **previous/next navigation**
-- **versioning**
+## Opción 1: Desde el Dashboard principal
 
-## Create your first Doc
+1. Al ingresar a la plataforma, verás tu **Dashboard** (pantalla principal).
+2. Ahí se muestran los cursos en los que estás matriculado/a.
+3. Ubica el curso que deseas continuar y haz clic en  
+   👉 **"Continuar curso"**
 
-Create a Markdown file at `docs/hello.md`:
+Serás redirigido/a inmediatamente al contenido del curso.
 
-```md title="docs/hello.md"
-# Hello
+## Opción 2: Desde la sección "Mis cursos"
 
-This is my **first Docusaurus document**!
-```
+1. Dirígete al menú lateral y haz clic en **"Mis cursos"**.
+2. Filtra por la opción **"En progreso"** para ver los cursos activos.
+3. Busca el curso al que te matriculaste y haz clic en  
+   👉 **"Continuar curso"**
 
-A new document is now available at [http://localhost:3000/docs/hello](http://localhost:3000/docs/hello).
+✅ ¡Listo! Ya estás dentro del curso y puedes comenzar con tus clases.
 
-## Configure the Sidebar
-
-Docusaurus automatically **creates a sidebar** from the `docs` folder.
-
-Add metadata to customize the sidebar label and position:
-
-```md title="docs/hello.md" {1-4}
----
-sidebar_label: 'Hi!'
-sidebar_position: 3
 ---
 
-# Hello
+🎓 ¡Te deseamos mucho éxito en tu aprendizaje!
 
-This is my **first Docusaurus document**!
-```
-
-It is also possible to create your sidebar explicitly in `sidebars.js`:
-
-```js title="sidebars.js"
-export default {
-  tutorialSidebar: [
-    'intro',
-    // highlight-next-line
-    'hello',
-    {
-      type: 'category',
-      label: 'Tutorial',
-      items: ['tutorial-basics/create-a-document'],
-    },
-  ],
-};
-```

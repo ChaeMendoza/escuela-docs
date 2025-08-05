@@ -2,30 +2,29 @@
 sidebar_position: 5
 ---
 
-# Deploy your site
+# ¿Cómo cambiar mi contraseña?
 
-Docusaurus is a **static-site-generator** (also called **[Jamstack](https://jamstack.org/)**).
+Si olvidaste tu contraseña o deseas cambiarla por seguridad, sigue estos pasos:
 
-It builds your site as simple **static HTML, JavaScript and CSS files**.
+## 🔄 Para restablecer tu contraseña:
 
-## Build your site
+1. Desde la página de inicio de sesión, haz clic en  
+   👉 **"¿Olvidaste tu contraseña?"**
 
-Build your site **for production**:
+2. Escribe el **correo electrónico** con el que te registraste en la plataforma.
 
-```bash
-npm run build
-```
+3. Revisa tu bandeja de entrada. Recibirás un **correo con un enlace de recuperación**.
 
-The static files are generated in the `build` folder.
+4. Haz clic en ese enlace y serás redirigido/a a una página donde podrás crear una **nueva contraseña**.
 
-## Deploy your site
+5. Escribe tu nueva contraseña siguiendo las recomendaciones de seguridad y confírmala.
 
-Test your production build locally:
+6. Guarda los cambios.  
+   ✅ Aparecerá un mensaje de confirmación y podrás iniciar sesión con tu nueva contraseña.
 
-```bash
-npm run serve
-```
+---
 
-The `build` folder is now served at [http://localhost:3000/](http://localhost:3000/).
+📌 **Recomendación:** Usa una contraseña segura que combines letras, números y símbolos para proteger tu cuenta.
 
-You can now deploy the `build` folder **almost anywhere** easily, **for free** or very small cost (read the **[Deployment Guide](https://docusaurus.io/docs/deployment)**).
+🔐 ¡Listo! Ya puedes acceder nuevamente a la Escuela de Derechos.
+

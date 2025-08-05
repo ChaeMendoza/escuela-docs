@@ -2,33 +2,19 @@
 sidebar_position: 3
 ---
 
-# Create a Blog Post
+# ¿Cómo revisar mis calificaciones?
 
-Docusaurus creates a **page for each blog post**, but also a **blog index page**, a **tag system**, an **RSS** feed...
+Consultar tus calificaciones es muy fácil. Solo sigue estos pasos:
 
-## Create your first Post
+1. En el menú lateral izquierdo, haz clic en la opción **"Mis calificaciones"**.
 
-Create a file at `blog/2021-02-28-greetings.md`:
+2. Se mostrará una lista de los cursos en los que estás matriculado/a.  
+   Selecciona el curso del que deseas ver tus notas.
 
-```md title="blog/2021-02-28-greetings.md"
----
-slug: greetings
-title: Greetings!
-authors:
-  - name: Joel Marcey
-    title: Co-creator of Docusaurus 1
-    url: https://github.com/JoelMarcey
-    image_url: https://github.com/JoelMarcey.png
-  - name: Sébastien Lorber
-    title: Docusaurus maintainer
-    url: https://sebastienlorber.com
-    image_url: https://github.com/slorber.png
-tags: [greetings]
+3. Una vez seleccionado, podrás visualizar las calificaciones que has obtenido en las actividades del curso.
+
+🔹 Si aún no tienes notas registradas, no se mostrará ninguna información.
+
 ---
 
-Congratulations, you have made your first post!
-
-Feel free to play around and edit this post as much as you like.
-```
-
-A new blog post is now available at [http://localhost:3000/blog/greetings](http://localhost:3000/blog/greetings).
+📌 Recuerda: las calificaciones solo aparecerán si el educador ya ha evaluado tus actividades.

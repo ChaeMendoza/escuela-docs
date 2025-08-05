@@ -4,42 +4,49 @@ sidebar_position: 1
 
 # Guía Rápida
 
-Descubre todo sobre la **Escuela de derechos en menos de 5 minutos**.
+Descubre todo sobre la **Escuela de Derechos** en menos de 5 minutos.
 
-## Como empezar?
+## ¿Cómo empezar?
 
-Accede al sitio oficial **https://eduescuela.dpe.gob.ec**.
+Accede al sitio oficial:  
+👉 https://eduescuela.dpe.gob.ec
 
-### Explora la página
+### Explora la plataforma
 
-- Explora cada contenido:
-  - Encontrarás sección de cursos, acerca de la página, contacto y más.
+Una vez dentro, podrás navegar por las distintas secciones del sitio:
 
-## Registrate
+- **Cursos disponibles**
+- **Información institucional**
+- **Contacto**
+- ¡Y mucho más!
 
-Si no tienes una cuenta puedes crearla desde **[Crear cuenta](https://eduescuela.dpe.gob.ec/register)**.
+## Regístrate
 
-Llena los campos como se detalla a continuación:
+¿Aún no tienes una cuenta?  
+Crea una fácilmente desde:  
+👉 https://eduescuela.dpe.gob.ec/register
 
-- ```El usuario no puede contener Mayúsculas, puntos, comas, y caracteres especiales.```
-- ```En el usuario se puede usar guion bajo _ y minusculas. Ejm: israel_mendoza ```
-- Escribe tu correo electrónico y asegúrate que sea uno válido porque posterior a eso deberás validarlo.
-- Respetas las indicaciones de la contraseña y crea una.
+### Recomendaciones para el registro:
 
-Si sigues todos estos pasos deberás obtener un mensaje de éxito. Esto significa que te has creado una cuenta satisfactoriamente.
+- El nombre de usuario **no debe contener mayúsculas, espacios, puntos, comas ni caracteres especiales**.
+- Puedes usar minúsculas y guiones bajos (`_`).  
+  Ejemplo válido: `israel_mendoza`
+- Ingresa un correo electrónico válido. Lo necesitarás para validar tu cuenta.
+- Crea una contraseña siguiendo las indicaciones del formulario.
 
-Rápidamente, serás redirigido al **Inicio de sesión**
+💡 Si todo está correcto, recibirás un mensaje de éxito y serás redirigido al **Inicio de sesión**.
 
+## Completa tus datos personales
 
-## Completa tus datos
+Una vez que ingreses por primera vez, deberás actualizar tu información personal. Solo sigue estos pasos:
 
-Una vez que hayas ingresado te pedirá que actualices tus datos, esto lo puedes hacer fácilmente. 
+1. Haz clic en **"Actualizar mis datos"**.
+2. Selecciona tu tipo de documento: **Cédula** o **Pasaporte**.
+3. Ingresa tu número de identificación y haz clic en **"Continuar y consultar"**.
+4. Verás tus datos precargados. Completa los campos faltantes y presiona **"Guardar"**.
 
-1. Clic en **"Actualizar mis datos"**.
-2. Selecciona el tipo de documento. **Cédula** o **Pasaporte**.
-3. Ingresa tu número de identificación y haz clic en **continuar y consultar.**
-4. Con esto obtendrás tus datos pre cargados, ya solo deberás completar los faltantes y dar clic en guardar.
+✅ Al finalizar, recibirás un mensaje de éxito y serás llevado automáticamente al **Dashboard Principal**.
 
-Deberás observar un mensaje de éxito e inmediatamente serás redirigido al **Dashboard Principal**
+---
 
-### **Bienvenido/a a la Escuela de Derechos v2.0 🥳**
+🎉 ¡Bienvenido/a a la Escuela de Derechos v2.0!

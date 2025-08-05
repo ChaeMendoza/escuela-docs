@@ -2,42 +2,22 @@
 sidebar_position: 1
 ---
 
-# Create a Page
+# ¿Cómo matricularme en un curso?
 
-Add **Markdown or React** files to `src/pages` to create a **standalone page**:
+Sigue estos pasos para inscribirte en uno de los cursos disponibles en la plataforma:
 
-- `src/pages/index.js` → `localhost:3000/`
-- `src/pages/foo.md` → `localhost:3000/foo`
-- `src/pages/foo/bar.js` → `localhost:3000/foo/bar`
+1. **Inicia sesión** con tu usuario y contraseña desde el sitio oficial: https://eduescuela.dpe.gob.ec
 
-## Create your first React Page
+2. En el menú lateral izquierdo, haz clic en la sección **"Mis cursos"**.
 
-Create a file at `src/pages/my-react-page.js`:
+3. Podrás filtrar los cursos según su estado:
+    - **Todos los cursos**: muestra todos los cursos disponibles para ti.
+    - **En progreso**: muestra los cursos en los que ya estás inscrito/a.
+    - **Finalizados**: cursos que ya completaste.
 
-```jsx title="src/pages/my-react-page.js"
-import React from 'react';
-import Layout from '@theme/Layout';
+4. Dentro de **"Todos los cursos"**, explora la lista y revisa los detalles de cada curso (nombre, descripción).
 
-export default function MyReactPage() {
-  return (
-    <Layout>
-      <h1>My React page</h1>
-      <p>This is a React page</p>
-    </Layout>
-  );
-}
-```
+5. Una vez que hayas elegido el curso que deseas tomar, haz clic en el botón  
+   👉 **"Inscribirse en este curso"**
 
-A new page is now available at [http://localhost:3000/my-react-page](http://localhost:3000/my-react-page).
-
-## Create your first Markdown Page
-
-Create a file at `src/pages/my-markdown-page.md`:
-
-```mdx title="src/pages/my-markdown-page.md"
-# My Markdown page
-
-This is a Markdown page
-```
-
-A new page is now available at [http://localhost:3000/my-markdown-page](http://localhost:3000/my-markdown-page).
+✅ ¡Y listo! Quedarás automáticamente matriculado/a y el curso aparecerá en tu lista de cursos en progreso.

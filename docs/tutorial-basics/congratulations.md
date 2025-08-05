@@ -2,22 +2,24 @@
 sidebar_position: 6
 ---
 
-# Congratulations!
+# ¿Cómo contactar con soporte?
 
-You have just learned the **basics of Docusaurus** and made some changes to the **initial template**.
+Si necesitas ayuda técnica, tienes dudas sobre el uso de la plataforma o quieres reportar un problema, puedes comunicarte con el equipo de soporte de la Escuela de Derechos a través de los siguientes canales:
 
-Docusaurus has **much more to offer**!
+📍 **Dirección:**  
+Av. 12 de Octubre N16-114 y Pasaje, Quito 170136 – Ecuador
 
-Have **5 more minutes**? Take a look at **[versioning](../tutorial-extras/manage-docs-versions.md)** and **[i18n](../tutorial-extras/translate-your-site.md)**.
+📞 **Teléfono:**  
+(02) 382-9670 ext. 4251
 
-Anything **unclear** or **buggy** in this tutorial? [Please report it!](https://github.com/facebook/docusaurus/discussions/4610)
+📧 **Correo electrónico:**  
+info@escueladerechos.edu
 
-## What's next?
+🕐 **Horario de atención:**  
+Lunes a viernes, de 08h30 a 17h00
 
-- Read the [official documentation](https://docusaurus.io/)
-- Modify your site configuration with [`docusaurus.config.js`](https://docusaurus.io/docs/api/docusaurus-config)
-- Add navbar and footer items with [`themeConfig`](https://docusaurus.io/docs/api/themes/configuration)
-- Add a custom [Design and Layout](https://docusaurus.io/docs/styling-layout)
-- Add a [search bar](https://docusaurus.io/docs/search)
-- Find inspirations in the [Docusaurus showcase](https://docusaurus.io/showcase)
-- Get involved in the [Docusaurus Community](https://docusaurus.io/community/support)
+---
+
+💡 No olvides incluir tu nombre completo, número de cédula y una descripción clara del problema para poder ayudarte más rápido.
+
+¡Estamos aquí para ayudarte!
