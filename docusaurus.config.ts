@@ -19,10 +19,10 @@ const config: Config = {
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/escuela-docs/',
-
+  deploymentBranch: 'gh-pages',
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'defensoria_del_pueblo_del_ecuador', // Usually your GitHub org/user name.
+  organizationName: 'ChaeMendoza', // Usually your GitHub org/user name.
   projectName: 'escuela-docs', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -45,7 +45,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/',
         },
         blog: {
           showReadingTime: true,
@@ -56,7 +56,7 @@ const config: Config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/',
           // Useful options to enforce blogging best practices
           onInlineTags: 'warn',
           onInlineAuthors: 'warn',
@@ -87,8 +87,8 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://gitlab.dpe.gob.ec/',
-          label: 'GitLab',
+          href: 'https://educacionpruebas.dpe.gob.ec/',
+          label: 'Escuela de derechos',
           position: 'right',
         },
       ],
@@ -126,8 +126,8 @@ const config: Config = {
               to: '/blog',
             },
             {
-              label: 'GitLab',
-              href: 'https://gitlab.dpe.gob.ec/',
+              label: 'Escuela de derechos',
+              href: 'https://educacionpruebas.dpe.gob.ec/',
             },
           ],
         },

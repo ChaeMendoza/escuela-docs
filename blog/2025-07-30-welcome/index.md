@@ -1,8 +1,8 @@
 ---
 slug: welcome
-title: Welcome
+title: Bienvenida al Blog
 authors: [yangshun]
-tags: [facebook, hello, docusaurus]
+tags: [hello]
 ---
 
 ¡Te damos la bienvenida al blog oficial de la Escuela de Derechos de la Defensoría del Pueblo!

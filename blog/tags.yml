@@ -1,7 +1,7 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+Escuela:
+  label: Escuela
+  permalink: /escuela
+  description: Escuela tag description
 
 hello:
   label: Hello
