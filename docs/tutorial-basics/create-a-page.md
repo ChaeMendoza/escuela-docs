@@ -6,7 +6,7 @@ sidebar_position: 1
 
 Sigue estos pasos para inscribirte en uno de los cursos disponibles en la plataforma:
 
-1. **Inicia sesión** con tu usuario y contraseña desde el sitio oficial: https://eduescuela.dpe.gob.ec
+1. **Inicia sesión** con tu usuario y contraseña desde el sitio oficial: https://eduderechos.dpe.gob.ec
 
 2. En el menú lateral izquierdo, haz clic en la sección **"Mis cursos"**.
 

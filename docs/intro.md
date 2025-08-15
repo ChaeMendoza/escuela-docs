@@ -9,7 +9,7 @@ Descubre todo sobre la **Escuela de Derechos** en menos de 5 minutos.
 ## ¿Cómo empezar?
 
 Accede al sitio oficial:  
-👉 https://eduescuela.dpe.gob.ec
+👉 https://eduderechos.dpe.gob.ec
 
 ### Explora la plataforma
 
@@ -24,7 +24,7 @@ Una vez dentro, podrás navegar por las distintas secciones del sitio:
 
 ¿Aún no tienes una cuenta?  
 Crea una fácilmente desde:  
-👉 https://eduescuela.dpe.gob.ec/register
+👉 https://eduderechos.dpe.gob.ec/register
 
 ### Recomendaciones para el registro:
 
