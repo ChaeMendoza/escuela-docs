@@ -2,11 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chaemendoza.github.io/escuela-docs/blog</id>
     <title>Escuela de derechos v2.0 Blog</title>
-    <updated>2025-08-01T00:00:00.000Z</updated>
+    <updated>2025-08-21T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chaemendoza.github.io/escuela-docs/blog"/>
     <subtitle>Escuela de derechos v2.0 Blog</subtitle>
     <icon>https://chaemendoza.github.io/escuela-docs/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Escuela de Derechos v2.0.3!]]></title>
+        <id>https://chaemendoza.github.io/escuela-docs/blog/updates</id>
+        <link href="https://chaemendoza.github.io/escuela-docs/blog/updates"/>
+        <updated>2025-08-21T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[¡Nueva actualización de la Escuela de Derechos de la Defensoría del Pueblo!]]></summary>
+        <content type="html"><![CDATA[<p>¡Nueva actualización de la Escuela de Derechos de la Defensoría del Pueblo!</p>
+<p>En esta entrada queremos contarte sobre las <strong>últimas mejoras y novedades</strong> que hemos implementado en nuestra plataforma educativa:</p>
+<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-actualizaciones-principales">📌 Actualizaciones principales<a href="https://chaemendoza.github.io/escuela-docs/blog/updates#-actualizaciones-principales" class="hash-link" aria-label="Enlace directo al 📌 Actualizaciones principales" title="Enlace directo al 📌 Actualizaciones principales">​</a></h3>
+<ul>
+<li><strong>Corrección de fallas en la carga de cursos:</strong> ahora la plataforma carga los cursos de manera más rápida y confiable, solucionando problemas reportados por los usuarios.</li>
+<li><strong>Página de consulta de certificados:</strong> hemos agregado una página pública donde cualquier persona puede consultar sus certificados de manera directa.</li>
+<li><strong>Optimización y mejoras para administradores:</strong> nuevas funcionalidades para el equipo administrativo, aún en fase de testing, para gestionar cursos, usuarios y reportes más eficientemente.</li>
+<li><strong>Otras optimizaciones y ajustes menores:</strong> rendimiento mejorado y corrección de errores menores para una experiencia más fluida.</li>
+</ul>
+<p>Nuestro objetivo sigue siendo ofrecer una <strong>plataforma educativa segura, confiable y de fácil uso</strong>, tanto para participantes como para administradores.</p>
+<p>📰 Mantente al día con las novedades y sigue explorando todos los recursos y cursos disponibles en la Escuela de Derechos.</p>
+<p>Gracias por ser parte de esta iniciativa educativa por y para la ciudadanía.</p>
+<p>—<br>
+<strong>Equipo de la Escuela de Derechos</strong></p>]]></content>
+        <author>
+            <name>Israel Mendoza</name>
+            <uri>https://www.linkedin.com/in/israel-mendoza-a939a61b1/</uri>
+        </author>
+        <category label="Hello" term="Hello"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[¡Lanzamiento! Escuela de Derechos v2.0 Beta]]></title>
         <id>https://chaemendoza.github.io/escuela-docs/blog/lanzamiento-escuela-derechos-v2</id>
