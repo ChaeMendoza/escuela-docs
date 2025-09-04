@@ -21,3 +21,5 @@ Sigue estos pasos para inscribirte en uno de los cursos disponibles en la plataf
    👉 **"Inscribirse en este curso"**
 
 ✅ ¡Y listo! Quedarás automáticamente matriculado/a y el curso aparecerá en tu lista de cursos en progreso.
+
+Importante: La contraseña de acceso, si el curso la requiere, será proporcionada por la Dirección Nacional de Educación en Derechos Humanos y de la Naturaleza.

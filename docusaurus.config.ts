@@ -87,7 +87,7 @@ const config: Config = {
         },
         {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://educacionpruebas.dpe.gob.ec/',
+          href: 'https://eduderechos.dpe.gob.ec/',
           label: 'Escuela de derechos',
           position: 'right',
         },
@@ -127,7 +127,7 @@ const config: Config = {
             },
             {
               label: 'Escuela de derechos',
-              href: 'https://educacionpruebas.dpe.gob.ec/',
+              href: 'https://eduderechos.dpe.gob.ec/',
             },
           ],
         },
