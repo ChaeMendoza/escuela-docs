@@ -4,31 +4,45 @@
         <title>Escuela de derechos v2.0 Blog</title>
         <link>https://chaemendoza.github.io/escuela-docs/blog</link>
         <description>Escuela de derechos v2.0 Blog</description>
-        <lastBuildDate>Thu, 21 Aug 2025 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 Sep 2025 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>es</language>
         <item>
-            <title><![CDATA[Escuela de Derechos v2.0.3!]]></title>
-            <link>https://chaemendoza.github.io/escuela-docs/blog/updates</link>
-            <guid>https://chaemendoza.github.io/escuela-docs/blog/updates</guid>
-            <pubDate>Thu, 21 Aug 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[¡Nueva actualización de la Escuela de Derechos de la Defensoría del Pueblo!]]></description>
-            <content:encoded><![CDATA[<p>¡Nueva actualización de la Escuela de Derechos de la Defensoría del Pueblo!</p>
-<p>En esta entrada queremos contarte sobre las <strong>últimas mejoras y novedades</strong> que hemos implementado en nuestra plataforma educativa:</p>
-<h3 class="anchor anchorWithStickyNavbar_LWe7" id="-actualizaciones-principales">📌 Actualizaciones principales<a href="https://chaemendoza.github.io/escuela-docs/blog/updates#-actualizaciones-principales" class="hash-link" aria-label="Enlace directo al 📌 Actualizaciones principales" title="Enlace directo al 📌 Actualizaciones principales">​</a></h3>
+            <title><![CDATA[🚀 Nueva V2.1.2! Descubre las novedades]]></title>
+            <link>https://chaemendoza.github.io/escuela-docs/blog/Nueva-V2.1.2</link>
+            <guid>https://chaemendoza.github.io/escuela-docs/blog/Nueva-V2.1.2</guid>
+            <pubDate>Thu, 04 Sep 2025 00:00:00 GMT</pubDate>
+            <description><![CDATA[En la Escuela de Derechos de la Defensoría del Pueblo seguimos trabajando día a día para ofrecerte una experiencia más ágil, segura y completa.]]></description>
+            <content:encoded><![CDATA[<p>En la Escuela de Derechos de la Defensoría del Pueblo seguimos trabajando día a día para ofrecerte una experiencia más ágil, segura y completa.<br>
+<!-- -->Hoy te presentamos la <strong>versión 2.1.2</strong>, cargada de novedades que harán tu uso de la plataforma mucho más sencillo.</p>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-nuevas-características">✨ Nuevas características<a href="https://chaemendoza.github.io/escuela-docs/blog/Nueva-V2.1.2#-nuevas-caracter%C3%ADsticas" class="hash-link" aria-label="Enlace directo al ✨ Nuevas características" title="Enlace directo al ✨ Nuevas características">​</a></h2>
 <ul>
-<li><strong>Corrección de fallas en la carga de cursos:</strong> ahora la plataforma carga los cursos de manera más rápida y confiable, solucionando problemas reportados por los usuarios.</li>
-<li><strong>Página de consulta de certificados:</strong> hemos agregado una página pública donde cualquier persona puede consultar sus certificados de manera directa.</li>
-<li><strong>Optimización y mejoras para administradores:</strong> nuevas funcionalidades para el equipo administrativo, aún en fase de testing, para gestionar cursos, usuarios y reportes más eficientemente.</li>
-<li><strong>Otras optimizaciones y ajustes menores:</strong> rendimiento mejorado y corrección de errores menores para una experiencia más fluida.</li>
+<li>👨‍💼 <strong>Rol administrador:</strong> más funcionalidades y herramientas de gestión.</li>
+<li>🎓 <strong>Rol estudiante:</strong> ahora cuentas con una opción para <strong>reportar Bugs o Incidencias</strong> directamente desde tu cuenta.</li>
 </ul>
-<p>Nuestro objetivo sigue siendo ofrecer una <strong>plataforma educativa segura, confiable y de fácil uso</strong>, tanto para participantes como para administradores.</p>
-<p>📰 Mantente al día con las novedades y sigue explorando todos los recursos y cursos disponibles en la Escuela de Derechos.</p>
-<p>Gracias por ser parte de esta iniciativa educativa por y para la ciudadanía.</p>
-<p>—<br>
-<strong>Equipo de la Escuela de Derechos</strong></p>]]></content:encoded>
-            <category>Hello</category>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="️-correcciones-y-mejoras">🛠️ Correcciones y mejoras<a href="https://chaemendoza.github.io/escuela-docs/blog/Nueva-V2.1.2#%EF%B8%8F-correcciones-y-mejoras" class="hash-link" aria-label="Enlace directo al 🛠️ Correcciones y mejoras" title="Enlace directo al 🛠️ Correcciones y mejoras">​</a></h2>
+<ul>
+<li>🔑 <strong>Reseteo de contraseñas</strong>: ya no tendrás problemas al recuperar tu acceso.</li>
+<li>📊 <strong>Reportes optimizados</strong>: la función de generación de reportes ahora es más rápida y confiable.</li>
+</ul>
+<hr>
+<h2 class="anchor anchorWithStickyNavbar_LWe7" id="-qué-se-viene">📌 ¿Qué se viene?<a href="https://chaemendoza.github.io/escuela-docs/blog/Nueva-V2.1.2#-qu%C3%A9-se-viene" class="hash-link" aria-label="Enlace directo al 📌 ¿Qué se viene?" title="Enlace directo al 📌 ¿Qué se viene?">​</a></h2>
+<p>Ya estamos trabajando en la <strong>versión 2.1.3</strong>, donde incorporaremos:</p>
+<ul>
+<li>Publicación de nuevos cursos.</li>
+<li>Nuevas opciones de personalización para cada usuario.</li>
+<li>Actualizaciones en la seguridad de la plataforma.</li>
+</ul>
+<hr>
+<p>🙌 Gracias por ser parte de esta comunidad y ayudarnos a crecer con tus sugerencias.<br>
+<!-- -->Si encuentras algo que podamos mejorar, ¡no dudes en usar la nueva función de reportar incidencias!</p>
+<p><strong>Equipo de la Escuela de Derechos</strong></p>]]></content:encoded>
+            <category>actualización</category>
+            <category>plataforma</category>
+            <category>novedades</category>
         </item>
         <item>
             <title><![CDATA[¡Lanzamiento! Escuela de Derechos v2.0 Beta]]></title>
@@ -52,8 +66,8 @@
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="-agradecimientos">🙌 Agradecimientos<a href="https://chaemendoza.github.io/escuela-docs/blog/lanzamiento-escuela-derechos-v2#-agradecimientos" class="hash-link" aria-label="Enlace directo al 🙌 Agradecimientos" title="Enlace directo al 🙌 Agradecimientos">​</a></h2>
 <p>Gracias a todas las personas e instituciones que han hecho posible esta nueva versión. Este es un esfuerzo conjunto para garantizar una educación en derechos accesible, libre y de calidad.</p>
 <hr>
-<p>🌐 Visítanos ahora en: <a href="https://educacionpruebas.dpe.gob.ec/" target="_blank" rel="noopener noreferrer">Escuela de derechos v2.0</a>
-📩 ¿Tienes dudas? Contáctanos en <a href="mailto:info@escueladerechos.edu" target="_blank" rel="noopener noreferrer">info@escueladerechos.edu</a></p>
+<p>🌐 Visítanos ahora en: <a href="https://eduderechos.dpe.gob.ec/" target="_blank" rel="noopener noreferrer">Escuela de derechos v2.0</a>
+📩 ¿Tienes dudas? Contáctanos en <a href="mailto:educacion@dpe.gob.ec" target="_blank" rel="noopener noreferrer">info@escueladerechos.edu</a></p>
 <p>¡Bienvenidos a esta nueva etapa de aprendizaje y transformación!</p>]]></content:encoded>
             <category>Hello</category>
         </item>
