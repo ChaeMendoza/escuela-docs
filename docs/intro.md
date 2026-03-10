@@ -24,7 +24,7 @@ Una vez dentro, podrás navegar por las distintas secciones del sitio:
 
 ¿Aún no tienes una cuenta?  
 Crea una fácilmente desde:  
-👉 https://eduderechos.dpe.gob.ec/register
+👉 https://eduderechos.dpe.gob.ec/registro
 
 ### Recomendaciones para el registro:
 
