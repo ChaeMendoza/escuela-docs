@@ -6,25 +6,60 @@
 
 /* You can override the default Infima variables here. */
 :root {
-  --ifm-color-primary: #006284;
-  --ifm-color-primary-dark: #005976;
-  --ifm-color-primary-darker: #015672;
-  --ifm-color-primary-darkest: #014b64;
-  --ifm-color-primary-light: #02739a;
-  --ifm-color-primary-lighter: #017da8;
-  --ifm-color-primary-lightest: #0185b2;
+  --ifm-color-primary: #004b73;
+  --ifm-color-primary-dark: #004468;
+  --ifm-color-primary-darker: #004062;
+  --ifm-color-primary-darkest: #003551;
+  --ifm-color-primary-light: #00527e;
+  --ifm-color-primary-lighter: #005684;
+  --ifm-color-primary-lightest: #006399;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
+  --institucional-bg: #f8f9fa;
+  --card-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
+  --card-shadow-hover: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 [data-theme='dark'] {
-  --ifm-color-primary: #006284;
-  --ifm-color-primary-dark: #02739a;
-  --ifm-color-primary-darker: #017da8;
-  --ifm-color-primary-darkest: #006284;
-  --ifm-color-primary-light: #02739a;
-  --ifm-color-primary-lighter: #017da8;
-  --ifm-color-primary-lightest: #0185b2;
+  --ifm-color-primary: #007bbd;
+  --ifm-color-primary-dark: #006fa1;
+  --ifm-color-primary-darker: #006998;
+  --ifm-color-primary-darkest: #00577d;
+  --ifm-color-primary-light: #008cd6;
+  --ifm-color-primary-lighter: #0195e2;
+  --ifm-color-primary-lightest: #22aeff;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+  --institucional-bg: #1a1b1e;
+  --card-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.5);
+  --card-shadow-hover: 0 10px 15px -3px rgba(0, 0, 0, 0.6);
+}
+
+/* Custom Utilities for Redesign */
+.institutional-card {
+  background: var(--ifm-background-surface-color);
+  border-radius: 12px;
+  padding: 2rem;
+  box-shadow: var(--card-shadow);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  height: 100%;
+  border: 1px solid var(--ifm-color-emphasis-200);
+}
+
+.institutional-card:hover {
+  transform: translateY(-5px);
+  box-shadow: var(--card-shadow-hover);
+  border-color: var(--ifm-color-primary);
+}
+
+.feature-icon-wrapper {
+  background: var(--ifm-color-primary-lightest);
+  color: white;
+  width: 64px;
+  height: 64px;
+  border-radius: 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto 1.5rem auto;
 }

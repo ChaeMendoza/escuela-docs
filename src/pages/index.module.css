@@ -4,15 +4,38 @@
  */
 
 .heroBanner {
-  padding: 4rem 0;
+  padding: 6rem 0;
   text-align: center;
   position: relative;
   overflow: hidden;
+  background: linear-gradient(135deg, var(--ifm-color-primary-darkest) 0%, var(--ifm-color-primary) 100%);
+  color: white;
+  border-bottom: 4px solid var(--ifm-color-primary-lightest);
+}
+
+.heroBanner [class*='hero__title'] {
+  font-size: 3rem;
+  font-weight: 800;
+  margin-bottom: 1rem;
+  letter-spacing: -0.5px;
+}
+
+.heroBanner [class*='hero__subtitle'] {
+  font-size: 1.5rem;
+  font-weight: 400;
+  margin-bottom: 2.5rem;
+  opacity: 0.9;
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 @media screen and (max-width: 996px) {
   .heroBanner {
-    padding: 2rem;
+    padding: 4rem 2rem;
+  }
+  .heroBanner [class*='hero__title'] {
+    font-size: 2.5rem;
   }
 }
 
@@ -20,4 +43,11 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
+.featuresSection {
+  padding: 4rem 0;
+  background-color: var(--institucional-bg);
 }

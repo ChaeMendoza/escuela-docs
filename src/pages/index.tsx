@@ -14,14 +14,28 @@ function HomepageHeader() {
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
         <Heading as="h1" className="hero__title">
-          {siteConfig.title}
+          Manual de Usuario
         </Heading>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <p className="hero__subtitle">
+          Plataforma de Aprendizaje — <b>Escuela de Derechos</b> <br/>
+          Defensoría del Pueblo del Ecuador
+        </p>
         <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
-            Guía Rápida - 5min ⏱️
+            Guía Rápida ⏱️
+          </Link>
+          <Link
+            className="button button--info button--lg"
+            to="/docs/acceso-sistema">
+            Iniciar Sesión
+          </Link>
+          <Link
+            className="button button--outline button--secondary button--lg"
+            style={{color: 'white', borderColor: 'white'}}
+            to="/docs/registro-usuarios">
+            Registrarse
           </Link>
         </div>
       </div>
@@ -30,11 +44,10 @@ function HomepageHeader() {
 }
 
 export default function Home(): ReactNode {
-  const {siteConfig} = useDocusaurusContext();
   return (
     <Layout
-      title={`Hola a la ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />">
+      title={`Inicio`}
+      description="Manual de Usuario de la Plataforma de Aprendizaje de la Escuela de Derechos">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
