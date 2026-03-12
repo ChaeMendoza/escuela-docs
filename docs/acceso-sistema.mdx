@@ -1,8 +1,11 @@
 ---
 id: acceso-sistema
 title: Acceso al Sistema
-sidebar_position: 1
+sidebar_position: 3
 ---
+
+import Tabs from '@theme/Tabs';
+import TabItem from '@theme/TabItem';
 
 # Acceso al Sistema
 
@@ -12,14 +15,50 @@ Para utilizar las funcionalidades completas de la **Escuela de Derechos** y cont
 
 Sigue estos pasos para ingresar a la plataforma:
 
-1. Dirígete a la página principal de la [Escuela de Derechos](https://eduderechos.dpe.gob.ec/).
-2. En la parte superior derecha (Barra de navegación), haz clic en el botón **"Iniciar sesión"**.
-3. También puedes ir directamente a la página de acceso desde este enlace: [**Página de Acceso**](https://eduderechos.dpe.gob.ec/acceso).
-4. Ingresa tus credenciales (correo electrónico y contraseña) en el formulario correspondiente.
-5. Haz clic en el botón para entrar a tu perfil.
+### Paso 1: Accede a la página de inicio de sesión
+
+| Método | Descripción |
+|---|---|
+| **Desde el menú** | Haz clic en el botón **"Iniciar sesión"** en la barra de navegación superior |
+| **Directo** | Accede a [**Página de Acceso**](https://eduderechos.dpe.gob.ec/acceso) |
+
+### Paso 2: Ingresa tu identificación
+
+En el formulario de acceso verás dos campos principales. **Primero**, ingresa tu **número de cédula** en el campo correspondiente.
+
+:::tip Busca tu cuenta
+Haz clic en el botón de **lupa** (🔍) junto al campo de cédula para buscar tu cuenta en el sistema.
+:::
+
+### Paso 3: Completa tus credenciales
+
+Dependiendo de si tu cédula está registrada, el sistema seguirá uno de estos flujos:
+
+<Tabs>
+  <TabItem value="encontrada" label="Cédula encontrada" default>
+
+  Si tu cédula está registrada en el sistema:
+  1. Al hacer clic en la lupa, tu **correo electrónico** se autocompletará automáticamente
+  2. Solo necesitas ingresar tu **contraseña**
+  3. Haz clic en **"Iniciar sesión"** para acceder
+
+  </TabItem>
+  <TabItem value="no-encontrada" label="Cédula no encontrada">
+
+  Si tu cédula no se encuentra en el sistema:
+  1. El sistema te permitirá ingresar tu **correo electrónico** de forma manual
+  2. Luego ingresa tu **contraseña**
+  3. Haz clic en **"Iniciar sesión"** para acceder
+
+  :::warning Actualiza tus datos
+  Si anteriormente tenías una cuenta pero tu cédula no se reconoce, actualiza tus datos o contacta al administrador del sistema para actualizar tus datos.
+  :::
+
+  </TabItem>
+</Tabs>
 
 :::tip ¿Olvidaste tu contraseña?
-Si no recuerdas tus credenciales, usa la opción de "Recuperar contraseña" que aparece debajo del formulario de acceso. Te enviaremos un correo electrónico con las instrucciones para restablecerla.
+Si no recuerdas tu contraseña, usa la opción de **"Recuperar contraseña"** que aparece debajo del formulario. Te enviaremos un correo con las instrucciones para restablecerla.
 :::
 
 :::info ¿Aún no tienes cuenta?
@@ -28,6 +67,12 @@ Si es tu primera vez en la plataforma y quieres acceder a los cursos, primero ne
 
 ## Problemas Comunes de Acceso
 
-- **Credenciales incorrectas:** Asegúrate de escribir tu correo y contraseña sin espacios adicionales, respetando las mayúsculas y minúsculas.
-- **Cuenta no activada:** Si recién te registraste, es posible que necesites confirmar tu cuenta mediante el enlace enviado a tu correo electrónico.
-- **Cédula no encontrada:** Si tu cédula no es encontrada y si estas registrado en el sistema, el formulario te permitirá escribir manualmente el correo para que puedas ingresar. Posterior a eso debes actualizar tus datos
+| Problema | Solución |
+|---|---|
+| **Credenciales incorrectas** | Verifica que tu correo y contraseña estén bien escritos, sin espacios adicionales. Respeta mayúsculas y minúsculas. |
+| **Cuenta no activada** | Si recién te registraste, revisa tu correo y haz clic en el enlace de confirmación. |
+| **Cédula no encontrada** | Consulta la sección [Cédula no encontrada](#paso-3-completa-tus-credenciales) arriba para ver cómo proceder. |
+
+:::info ¿Aún no tienes cuenta?
+Si es tu primera vez en la plataforma, primero necesitas registrarte. Sigue nuestra guía de [Registro de Usuarios](./registro-usuarios.mdx) para crear tu perfil.
+:::

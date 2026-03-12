@@ -1,4 +1,4 @@
-import type {ReactNode} from 'react';
+import type { ReactNode } from 'react';
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
 import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
@@ -9,7 +9,7 @@ import Heading from '@theme/Heading';
 import styles from './index.module.css';
 
 function HomepageHeader() {
-  const {siteConfig} = useDocusaurusContext();
+  const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
@@ -17,7 +17,7 @@ function HomepageHeader() {
           Manual de Usuario
         </Heading>
         <p className="hero__subtitle">
-          Plataforma de Aprendizaje — <b>Escuela de Derechos</b> <br/>
+          Plataforma de Aprendizaje — <b>Escuela de Derechos</b> <br />
           Defensoría del Pueblo del Ecuador
         </p>
         <div className={styles.buttons}>
@@ -33,7 +33,7 @@ function HomepageHeader() {
           </Link>
           <Link
             className="button button--outline button--secondary button--lg"
-            style={{color: 'white', borderColor: 'white'}}
+            style={{ color: 'white', borderColor: 'white' }}
             to="/docs/registro-usuarios">
             Registrarse
           </Link>
