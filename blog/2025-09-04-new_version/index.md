@@ -1,39 +1,84 @@
 ---
-slug: Nueva-V2.1.2 
-title: 🚀 Nueva V2.1.2! Descubre las novedades
+slug: bienvenida-escuela-2-0
+title: 🎉 ¡Bienvenido a la Escuela de Derechos 2.0!
 authors: [yangshun]
-tags: [actualización, plataforma, novedades]
+tags: [bienvenida, escuela, lanzamiento]
 ---
 
-# 🎉 ¡Nueva actualización de la plataforma!  
+# ¡Bienvenido a la Escuela de Derechos 2.0!
 
-En la Escuela de Derechos de la Defensoría del Pueblo seguimos trabajando día a día para ofrecerte una experiencia más ágil, segura y completa.  
-Hoy te presentamos la **versión 2.1.2**, cargada de novedades que harán tu uso de la plataforma mucho más sencillo.  
+La **Escuela de Derechos** de la Defensoría del Pueblo del Ecuador te da la bienvenida a nuestra nueva plataforma de formación y capacitación.
 
----
-
-## ✨ Nuevas características
-- 👨‍💼 **Rol administrador:** más funcionalidades y herramientas de gestión.  
-- 🎓 **Rol estudiante:** ahora cuentas con una opción para **reportar Bugs o Incidencias** directamente desde tu cuenta.  
+La Escuela de Derechos de la Defensoría del Pueblo de Ecuador es un espacio de formación ciudadana orientado a promover la educación en derechos humanos, participación social y fortalecimiento de la democracia.
 
 ---
 
-## 🛠️ Correcciones y mejoras
-- 🔑 **Reseteo de contraseñas**: ya no tendrás problemas al recuperar tu acceso.  
-- 📊 **Reportes optimizados**: la función de generación de reportes ahora es más rápida y confiable.  
+## ¿Qué es la Escuela?
+
+Es una iniciativa educativa creada para empoderar a la ciudadanía en el conocimiento de sus derechos, fomentar el pensamiento crítico, y desarrollar herramientas para la defensa activa de los derechos humanos en Ecuador.
+
+A través de cursos, talleres, programas y recursos digitales, la Escuela se compromete con la transformación social desde una perspectiva de inclusión, equidad y justicia.
 
 ---
 
-## 📌 ¿Qué se viene?
-Ya estamos trabajando en la **versión 2.1.3**, donde incorporaremos:
-- Publicación de nuevos cursos.  
-- Nuevas opciones de personalización para cada usuario.  
-- Actualizaciones en la seguridad de la plataforma.  
+## ¿Qué ofrece la Escuela?
+
+<div style={{display: 'flex', gap: '20px', flexWrap: 'wrap', marginTop: '10px'}}>
+
+<div style={{flex: '1', minWidth: '200px', padding: '15px', backgroundColor: '#f0f4f8', borderRadius: '8px', textAlign: 'center'}}>
+
+### 🎓 Educación gratuita
+
+Accede a cursos sin costo alguno
+
+</div>
+
+<div style={{flex: '1', minWidth: '200px', padding: '15px', backgroundColor: '#f0f4f8', borderRadius: '8px', textAlign: 'center'}}>
+
+### 📜 Certificación oficial
+
+Obtén certificados reconocidos
+
+</div>
+
+<div style={{flex: '1', minWidth: '200px', padding: '15px', backgroundColor: '#f0f4f8', borderRadius: '8px', textAlign: 'center'}}>
+
+### 💻 100% online
+
+Aprende desde cualquier lugar
+
+</div>
+
+</div>
 
 ---
 
-🙌 Gracias por ser parte de esta comunidad y ayudarnos a crecer con tus sugerencias.  
-Si encuentras algo que podamos mejorar, ¡no dudes en usar la nueva función de reportar incidencias!  
+## ¿Qué puedes hacer en la plataforma?
+
+- 📚 **Acceder a cursos** de capacitación especializados
+- 🎓 **Obtener certificados** al completar tus estudios
+- 👥 **Interactuar** con otros estudiantes y expertos
+- 🌐 **Aprender** desde cualquier lugar, en cualquier momento
+
+---
+
+## ¿Cómo empezar?
+
+1. **Regístrate** en la plataforma creando tu cuenta
+2. **Actualiza tus datos** completando tu perfil
+3. **Explora los cursos** disponibles y matricúlate en los que te interesen
+4. **¡Comienza a aprender!**
+
+---
+
+:::info ¿Necesitas ayuda?
+Consulta nuestro [Manual de Usuario](./docs/intro.md) para guiarte paso a paso en el uso de la plataforma.
+:::
+
+---
+
+🙌 Gracias por ser parte de esta comunidad de aprendizaje.
 
 **Equipo de la Escuela de Derechos**
+**Defensoría del Pueblo del Ecuador**
 

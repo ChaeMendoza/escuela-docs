@@ -2,51 +2,42 @@
 sidebar_position: 1
 ---
 
-# Guía Rápida
+# Manual de Usuario
 
-Descubre todo sobre la **Escuela de Derechos** en menos de 5 minutos.
-
-## ¿Cómo empezar?
-
-Accede al sitio oficial:  
-👉 https://eduderechos.dpe.gob.ec
-
-### Explora la plataforma
-
-Una vez dentro, podrás navegar por las distintas secciones del sitio:
-
-- **Cursos disponibles**
-- **Información institucional**
-- **Contacto**
-- ¡Y mucho más!
-
-## Regístrate
-
-¿Aún no tienes una cuenta?  
-Crea una fácilmente desde:  
-👉 https://eduderechos.dpe.gob.ec/registro
-
-### Recomendaciones para el registro:
-
-- El nombre de usuario **no debe contener mayúsculas, espacios, puntos, comas ni caracteres especiales**.
-- Puedes usar minúsculas y guiones bajos (`_`).  
-  Ejemplo válido: `israel_mendoza`
-- Ingresa un correo electrónico válido. Lo necesitarás para validar tu cuenta.
-- Crea una contraseña siguiendo las indicaciones del formulario.
-
-💡 Si todo está correcto, recibirás un mensaje de éxito y serás redirigido al **Inicio de sesión**.
-
-## Completa tus datos personales
-
-Una vez que ingreses por primera vez, deberás actualizar tu información personal. Solo sigue estos pasos:
-
-1. Haz clic en **"Actualizar mis datos"**.
-2. Selecciona tu tipo de documento: **Cédula** o **Pasaporte**.
-3. Ingresa tu número de identificación y haz clic en **"Continuar y consultar"**.
-4. Verás tus datos precargados. Completa los campos faltantes y presiona **"Guardar"**.
-
-✅ Al finalizar, recibirás un mensaje de éxito y serás llevado automáticamente al **Dashboard Principal**.
+Bienvenido al **Manual de Usuario de la Escuela de Derechos v2.0**. Aquí encontrarás toda la información necesaria para usar la plataforma de manera eficiente.
 
 ---
 
-🎉 ¡Bienvenido/a a la Escuela de Derechos v2.0!
+## ¿Qué encontrarás en este manual?
+
+| Sección | Descripción |
+|---|---|
+| [Registro de Usuarios](./registro-usuarios.mdx) | Aprende a crear tu cuenta en la plataforma |
+| [Acceso al Sistema](./acceso-sistema.mdx) | Guía para iniciar sesión correctamente |
+| [Actualizar Datos de Perfil](./actualizar-perfil.mdx) | Cómo completar y modificar tu información personal |
+
+---
+
+## Antes de empezar
+
+Para utilizar la plataforma necesitas:
+
+1. **Una cuenta registrada** - Si no tienes, consulta la sección de registro
+2. **Tus datos actualizados** - El sistema puede pedirte completar tu perfil
+3. **Conexión a internet** - La plataforma es 100% online
+
+---
+
+## ¿Necesitas ayuda?
+
+- 📧 **Correo:** eduderechos@dpe.gob.ec
+- 📞 **Teléfono:** Consulta la página oficial
+- 💬 **Soporte:** Contacta al administrador del sistema
+
+---
+
+:::tip Primeros pasos
+Si es tu primera vez, te recomendamos seguir el orden de las secciones listed above para entender todo el proceso.
+:::
+
+¡Gracias por ser parte de la Escuela de Derechos!

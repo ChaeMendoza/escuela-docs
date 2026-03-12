@@ -18,7 +18,7 @@ function HomepageHeader() {
         </Heading>
         <p className="hero__subtitle">
           Plataforma de Aprendizaje — <b>Escuela de Derechos</b> <br />
-          Defensoría del Pueblo del Ecuador
+          Defensoría del Pueblo de Ecuador
         </p>
         <div className={styles.buttons}>
           <Link
